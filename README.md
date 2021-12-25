@@ -55,4 +55,4 @@ How to get the example running:
 - Hit "example/index.php" and follow the prompts to login with SkyDrive!
 
 Questions/Comments:
-- E-Mail me at php-skydrive@jlls.info
+- E-Mail me at php-anshuwap1@gmail.com
