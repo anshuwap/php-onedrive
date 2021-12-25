@@ -1,4 +1,4 @@
-php-skydrive
+php-onedrive
 ============
 
 A PHP client library for Microsoft SkyDrive/OneDrive.
@@ -6,7 +6,7 @@ This is very much a work in progress!
 See the Wiki for updates and documentation!
 
 Update 19-May-2014 - Composer.
-- By request, I've created a composer.json and published "lovattj/php-skydrive": "v1.0" on Packagist.
+- By request, I've created a composer.json and published "anshuwap/php-onedrive": "v1.0" on Packagist.
 - I've also added an autoloader definition.
 - I've not got much Composer or autoloading experience, so if it doesn't work please let me know!
 
@@ -44,9 +44,9 @@ How to install manually:
 - Require "src/functions.inc.php", create an object and start calling functions!
 
 How to install via Composer:
-- Require "lovattj/php-skydrive": "v1.0" in your composer.json
-- Edit "vendor/lovattj/php-skydrive/src/functions.inc.php" and include your Live Client ID, Secret Key and oAuth callback URL in relevant places.
-- Require "vendor/lovattj/php-skydrive/src/functions.inc.php", create an object and start calling functions!
+- Require "anshuwap/php-onedrive": "v1.0" in your composer.json
+- Edit "vendor/anshuwap/php-onedrive/src/functions.inc.php" and include your Live Client ID, Secret Key and oAuth callback URL in relevant places.
+- Require "vendor/anshuwap/php-onedrive/src/functions.inc.php", create an object and start calling functions!
 
 How to get the example running:
 - Deploy to your web server
